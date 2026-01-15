@@ -1,82 +1,59 @@
-# Hi 👋, I'm Nilesh Sharma
+# Nilesh Sharma
 
-🚀 A passionate **Full Stack Developer (MERN)** and **DSA enthusiast**  
-🎓 Computer Science student | Focused on building **real-world, scalable projects**
+Software Engineering student focused on **problem solving, backend systems, and clean architecture**.
 
----
-
-## 🧠 About Me
-
-- 💻 Currently learning and building with **MERN Stack**
-- 📊 Practicing **Data Structures & Algorithms daily**
-- 🔍 Believe in **quality over quantity** when it comes to projects
-- 🧱 Interested in **Backend Architecture & System Design**
-- 🎯 Goal: Become a **strong software engineer**, not just placement-focused
+I prefer building **fewer, well-thought-out projects** rather than many shallow ones.  
+Currently strengthening fundamentals in **Data Structures, Algorithms, and Backend Development**.
 
 ---
 
-## 🛠️ Tech Stack
+## Focus Areas
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization (JWT)
-
-### Database
-- MongoDB
-
-### Programming & DSA
-- C++
-- Problem Solving
-- Binary Search, Greedy, Recursion, Arrays, Strings
-
-### Tools
-- Git & GitHub
-- VS Code
-- Postman
+- Data Structures & Algorithms (C++)
+- Backend development with Node.js & Express
+- REST API design and authentication
+- Understanding how real production systems work
 
 ---
 
-## 📌 Projects
+## Tech Stack
 
-### 🔹 MockX (Flagship Project)
-A real-world web application focused on:
-- Clean architecture
-- Backend-first thinking
-- Scalable API design
-- Practical authentication flows
+**Languages**  
+C++, JavaScript
 
-> I focus on **building fewer but meaningful projects**, with proper structure and logic.
+**Backend**  
+Node.js, Express.js, MongoDB
 
----
+**Frontend**  
+React, HTML, CSS
 
-## 📈 What I'm Currently Working On
-
-- Improving **DSA problem-solving skills**
-- Deep dive into **Backend Architecture**
-- Writing cleaner, more maintainable code
-- Learning how real production systems work
+**Tools**  
+Git, GitHub, Postman
 
 ---
 
-## 🤝 Let's Connect
+## Projects
 
-- 💼 GitHub: [@Nileshsharma0009](https://github.com/Nileshsharma0009)
+**MockX**  
+A full-stack web application built with a backend-first approach.  
+Emphasis on API design, authentication flows, and maintainable structure.
 
----
-
-## ✨ Philosophy
-
-> “Don’t chase tools. Master fundamentals.  
-> Strong basics + consistency = long-term growth.”
+(More improvements and refactoring in progress.)
 
 ---
 
-⭐ If you like my work, consider giving a star — it motivates me to build more!
+## Current Direction
+
+- Daily DSA practice
+- Writing cleaner, more readable code
+- Learning system-level thinking instead of framework-level hacks
+
+---
+
+## Contact
+
+GitHub: https://github.com/Nileshsharma0009
+
+---
+
+> Long-term consistency beats short-term noise.
