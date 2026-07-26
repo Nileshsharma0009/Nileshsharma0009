@@ -162,7 +162,6 @@ Node.js • LangChain • Pinecone • Gemini API
 ## Coding Profiles
 
 - GitHub: https://github.com/Nileshsharma0009
-- Striver's Strikes: https://strikes.in/profile/NILESH%20SHARMA
 
 ---
 
